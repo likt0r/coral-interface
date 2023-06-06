@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "coral-interface",
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Adafruit"
+		]
+	}
+}
